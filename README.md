@@ -5,7 +5,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/LXRBOTSGROUP">
-    <img src="https://github.com/LXR-YOUTUBER-AMAL/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+    <img src="https://github.com/JJstu/File-Sharing-Bot/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/LXRBOTSGROUP">
     &nbsp;<img src="https://img.shields.io/badge/Lxr-Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
@@ -14,10 +14,10 @@
     &nbsp;<img src="https://img.shields.io/badge/Lxr-Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/LXR-YOUTUBER-AMAL/File-Sharing-Bot/stargazers">
+  <a href="https://github.com/JJstu/File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/LXR-YOUTUBER-AMAL/File-Sharing-Bot?style=social">
   </a>
-  <a href="https://github.com/LXR-YOUTUBER-AMAL/File-Sharing-Bot/fork">
+  <a href="https://github.com/JJstu/File-Sharing-Bot/fork">
     <img src="https://img.shields.io/github/forks/LXR-YOUTUBER-AMAL/File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
@@ -53,7 +53,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/LXR-YOUTUBER-AMAL/File-Sharing-Bot
+git clone 
+https://github.com/JJstu/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -88,7 +89,7 @@ python3 main.py
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/LXR-YOUTUBER-AMAL/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/JJstu/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 
 ### Fillings
